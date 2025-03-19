@@ -9,8 +9,8 @@
 8. Sepet
 
 # Gereksinim Dağılımları
-1. [İsa Nazlı'nın Gereksinimleri](İsa-Nazlı-Gereksinimler.md)
-2. [Sude Ceylan'ın Gereksinimleri](Sude-Ceylan-Gereksinimler.md)
+1. [İsa Nazlı'nın Gereksinimleri](https://github.com/isanazli0/Clothes-Shop/blob/main/%C4%B0sa-Nazl%C4%B1-Gereksinimler.md)
+2. [Sude Ceylan'ın Gereksinimleri](https://github.com/sude2853/Clothes-Shop/blob/main/Sude-Ceylan-Gereksinimler.md)
 3. [Ali Işık'ın Gereksinimleri](Ali-Işık-Gereksinimler.md)
 
 # TÜM GEREKSİNİM DAĞILIMLARI 
