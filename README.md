@@ -24,3 +24,6 @@ Sen de stilini tamamlamak ve modanın bir adım önünde olmak için Clothes Sho
 *Proje Ekibi:* Ali Işık, İsa Nazlı, Sude Ceylan
 
 1. [Gereksinim Analizi](Gereksinim-Analizi.md)
+2. [Durum Diyagramı](DurumDiyagramı.png)
+3. [Ali Işık'ın Durum Senaryoları](_DurumSenaryoları.pdf)
+4. [Sude Ceylan'ın Durum Senaryoları](https://github.com/sude2853/Clothes-Shop/blob/2c77edb300c11ffa5493b2f6298dab18b43f7f24/Durum%20Senaryosu.pdf)
