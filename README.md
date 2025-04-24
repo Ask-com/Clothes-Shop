@@ -30,4 +30,4 @@ Sen de stilini tamamlamak ve modanın bir adım önünde olmak için Clothes Sho
 5. [İsa Nazlı'nın Durum Senaryoları](https://github.com/isanazli0/Clothes-Shop/blob/74083c24ee6e22d20a23ee16e01d3f5486ffeb48/Durum-Senaryosu.pdf)
 
 
-#SİTE ADRESİ İÇİN = https://ask-com.github.io/Clothes-Shop/kadin.html
+#SİTE ADRESİ İÇİN = www.fiyasko.com.tr/kadin
