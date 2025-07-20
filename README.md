@@ -31,6 +31,8 @@ Sen de stilini tamamlamak ve modanın bir adım önünde olmak için Clothes Sho
 
 
 
-#SİTE ADRESİ İÇİN = [Frontend](https://ask-com.github.io/Clothes-Shop/kadin.html)
+#SİTE ADRESİ İÇİN =  6 .[Frontend](https://clothes-shop-opal.vercel.app/)
+                     7. [Backend](https://clothes-shop-be.vercel.app/api/v1)
+                     8. [Video Sunum ](https://youtu.be/qvJZjffsZV0)
 
-#SİTE ADRESİ İÇİN = www.fiyasko.com.tr/kadin
+
