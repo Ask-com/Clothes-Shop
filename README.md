@@ -33,7 +33,7 @@ Sen de stilini tamamlamak ve modanın bir adım önünde olmak için Clothes Sho
 
 #SİTE ADRESİ İÇİN =  6 .[Frontend](https://clothes-shop-opal.vercel.app/)
 
- 7. [Backend]()
+ 7. [Backend]( https://github.com/Ask-com/Clothes-Shop/blob/main/Backend)
  
  8. [Video Sunum ](https://youtu.be/qvJZjffsZV0)
 
