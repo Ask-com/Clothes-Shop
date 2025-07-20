@@ -33,7 +33,17 @@ Sen de stilini tamamlamak ve modanın bir adım önünde olmak için Clothes Sho
 
 #SİTE ADRESİ İÇİN =  6 .[Frontend](https://clothes-shop-opal.vercel.app/)
 
- 7. [Backend](https://clothes-shop-be.vercel.app/api/v1)
+ 7. [Backend]( Domain Adresi: https://clothes-shop-opal.vercel.app/
+
+Docker:  Kullanıldı.
+
+REST API: Kullanıldı
+
+Redis: Kullanıldı
+
+RabbitMQ: Kullanıldı/Kullanılmadı.
+
+CI/CD: Kullanıldı)
  
  8. [Video Sunum ](https://youtu.be/qvJZjffsZV0)
 
